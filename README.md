@@ -8,7 +8,7 @@ Dataset used in the analyses was obtained from the Bureau of Transportation Stat
 
 The question I wanted to answer was: What is the causal impact of highway and street spending on the seasonally adjusted real GDP?
 
-`Research Question 2.ipynb` is the main notebook with the causal inference methodology (2SLS), work, and results. Please refer to this notebook to better understand the detailed specifications regarding methodology.
+`Research Question 2.ipynb` is the main notebook with the causal inference methodology (2SLS), work, and results. Please refer to this notebook to better understand the detailed specifications regarding methodology and results.
 
 `q2_visuals.ipynb` is a notebook with some initial EDA.
 

@@ -16,11 +16,11 @@ The question I wanted to answer was: What is the causal impact of highway and st
 
 1. I conducted a 2 stage least squares regression with the following variables:
 
-  a. Treatment variable: "State and Local Government Construction Spending - Highway and Street"
+  * Treatment variable: "State and Local Government Construction Spending - Highway and Street"
   
-  b. Outcome variable:  "Real Gross Domestic Product - Seasonally Adjusted"
+  * Outcome variable:  "Real Gross Domestic Product - Seasonally Adjusted"
   
-  c. Instrument variable: "Highway Fatalities"
+  * Instrument variable: "Highway Fatalities"
   
   d. Identified confounding variables: "Unemployment Rate - Seasonally Adjusted", "State and Local Government Construction Spending - Transportation", "State and Local Government Construction Spending - Infrastructure", "Labor Force Participation Rate - Seasonally Adjusted", "State and Local Government Construction Spending - Bridge", "Is Recession"
 
